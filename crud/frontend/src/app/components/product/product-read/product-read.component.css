@@ -1,0 +1,22 @@
+table {
+    width: 100%;
+    align-items: center;
+}
+
+.quantidade { 
+    margin-left: 18px;
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.edit > i {
+    color: #000000;
+}
+
+.delete > i {
+    color: #696969;
+}
+
+
